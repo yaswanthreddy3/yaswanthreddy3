@@ -2,21 +2,20 @@
 <h3 align="center">AI/ML Engineer | Computer Vision & GenAI</h3>
 
 <p align="center">
-Building production computer vision pipelines and agentic GenAI systems — from data collection to deployment.
+Building production computer vision pipelines and agentic GenAI systems from data collection to deployment.
 </p>
 
 <p align="center">
-📍 Bengaluru, India &nbsp;|&nbsp; 💼 AI/ML Engineer @ Spurring Ventures
+📍 Bengaluru, India &nbsp;|&nbsp; 💼 AI/ML Engineer
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **production computer vision systems** at Spurring Ventures — YOLO11 detection pipelines, async FastAPI inference, and MLOps infrastructure
-- 🧠 Also working on **agentic GenAI systems** — LangGraph orchestration, RAG pipelines, and multi-tool agents (MCP)
+- 🔭 Currently building **production computer vision systems**  detection pipelines, async FastAPI inference, and MLOps infrastructure
+- 🧠 Also working on **agentic GenAI systems** LangGraph orchestration, RAG pipelines, and multi-tool agents (MCP)
 - 🌱 Exploring vision-language models, edge AI deployment (Jetson/ONNX/TensorRT), and retrieval-augmented generation
-- 💬 Ask me about YOLO fine-tuning, async API design, or agent orchestration with LangGraph
 - 📫 Reach me: **yrb12111@gmail.com**
 
 ---
